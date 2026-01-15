@@ -5,6 +5,6 @@
 
   # cafihn-debug's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[cafihn-debug.github.io/Fihn-lab-website](https://cafihn-debug.github.io/Fihn-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
