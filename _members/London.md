@@ -1,9 +1,19 @@
 ---
 name: London Fihn
 image: images/London.jpg
-role: Lab Mascot
-group: Current member
+role: lab-mascot
+affiliation: 
+aliases:
+  - Londy
+  - Londy Bear
+links:
+  home-page: 
 
 ---
 
 I enjoy being outside, rolling in and eating grass, watching wildlife, being around people and other dogs
+
+
+---
+
+
