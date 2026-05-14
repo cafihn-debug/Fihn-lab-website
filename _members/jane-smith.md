@@ -2,7 +2,7 @@
 name: Conrad Fihn
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: 
 aliases:
   - C. Fihn
   - C Fihn
