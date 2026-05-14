@@ -1,6 +1,6 @@
 ---
 name: Conrad Fihn
-image: images/photo.jpg
+image: images/Conrad.jpg
 role: principal-investigator
 affiliation: 
 aliases:
