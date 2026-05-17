@@ -1,6 +1,7 @@
 # Publications missing from ORCID auto-import
 
 - id: doi:10.1016/j.bioorg.2024.107840
+  image: 
   tags:
     - pseudomonas
     - antivirulence
@@ -10,12 +11,6 @@
   tags:
     - antibiotic tolerance
     - microbiology
-
-- id: doi:10.1016/j.bmc.2018.07.045
-  tags:
-    - histidine kinases
-    - kinase inhibitors
-    - chemical biology
 
 - id: doi:10.1021/bc500200t
   tags:
@@ -53,3 +48,16 @@
   tags:
     - metabolism
     - obesity biology
+
+- title: Screening Serine/Threonine and Tyrosine Kinase Inhibitors for Histidine Kinase Inhibition
+  authors:
+    - K. E. Wilke
+    - C. A. Fihn
+    - E. E. Carlson
+  publisher: Bioorganic & Medicinal Chemistry
+  date: 2018-01-01
+  type: paper
+  tags:
+    - histidine kinases
+    - kinase inhibitors
+    - chemical biology
