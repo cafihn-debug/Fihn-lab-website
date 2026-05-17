@@ -1,10 +1,9 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
-group: alum
+name: Prospective Member
+image: images/bates.jpg
+role: prospective student
+group: prospective
 links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Are you interested in studying and modulating chemical signaling (quorum sensing) in pathogenic bacteria such as Pseudomonas aeruginosa using microbiology, mass spectrometry, biosynthetic engineering, and molecular biology approaches. Students interested in joining the lab are encouraged to fill out the Google Form application to learn more about available opportunities.
