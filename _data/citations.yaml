@@ -84,6 +84,7 @@
   publisher: Bioorganic Chemistry
   date: '2024-12-01'
   link: https://doi.org/hb4mcn
+  image: null
   tags:
   - pseudomonas
   - antivirulence
@@ -109,32 +110,6 @@
   tags:
   - antibiotic tolerance
   - microbiology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.bmc.2018.07.045
-  title: Radiosynthesis and in vivo evaluation of a fluorine-18 labeled pyrazine based
-    radioligand for PET imaging of the adenosine A2B receptor
-  authors:
-  - Marcel Lindemann
-  - Sonja Hinz
-  - Winnie Deuther-Conrad
-  - Vigneshwaran Namasivayam
-  - Sladjana Dukic-Stefanovic
-  - Rodrigo Teodoro
-  - Magali Toussaint
-  - Mathias Kranz
-  - Cathleen Juhl
-  - "J\xF6rg Steinbach"
-  - Peter Brust
-  - "Christa E. M\xFCller"
-  - Barbara Wenzel
-  publisher: Bioorganic &amp; Medicinal Chemistry
-  date: '2018-09-01'
-  link: https://doi.org/gd6pmv
-  tags:
-  - histidine kinases
-  - kinase inhibitors
-  - chemical biology
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/bc500200t
@@ -191,5 +166,20 @@
   tags:
   - metabolism
   - obesity biology
+  plugin: sources.py
+  file: sources.yaml
+- title: Screening Serine/Threonine and Tyrosine Kinase Inhibitors for Histidine Kinase
+    Inhibition
+  authors:
+  - K. E. Wilke
+  - C. A. Fihn
+  - E. E. Carlson
+  publisher: Bioorganic & Medicinal Chemistry
+  date: '2018-01-01'
+  type: paper
+  tags:
+  - histidine kinases
+  - kinase inhibitors
+  - chemical biology
   plugin: sources.py
   file: sources.yaml
