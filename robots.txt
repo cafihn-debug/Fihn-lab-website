@@ -1,1 +1,1 @@
-Sitemap: https://cafihn-debug.github.io/Fihn-lab-website/sitemap.xml
+Sitemap: https://cafihn-debug.github.io/Fihn-lab/sitemap.xml
